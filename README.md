@@ -58,5 +58,53 @@ This project contains 50 common Java if-else condition-based programs. Each prog
 ✅ How to use.
 Run the program and enter the question number (1–49) to execute a specific logic.
 
+**##✅ screenshots**
+
+--------------------------------------------------------------------------
+
+
+<img width="537" height="500" alt="Screenshot 2025-08-03 133827" src="https://github.com/user-attachments/assets/1e2a9122-8b6e-43ca-8e1a-b658db450675" />
+<img width="686" height="490" alt="Screenshot 2025-08-03 133928" src="https://github.com/user-attachments/assets/3b4c7964-4ea0-462d-905f-11f009ae7ce2" />
+    
+## ✅ Outputs. 
+
+--------------------------------------------------------------------------
+
+  <img width="489" height="149" alt="Screenshot 2025-08-03 133006" src="https://github.com/user-attachments/assets/0f2ece67-cdeb-46c4-a98d-bcf66c98835e" />
+  
+--------------------------------------------------------------------------
+
+
+ <img width="450" height="100" alt="Screenshot 2025-08-03 132855" src="https://github.com/user-attachments/assets/f8195ba2-9795-4db3-be25-b7a1bb7df846" />
+
+--------------------------------------------------------------------------
+
+  <img width="451" height="105" alt="Screenshot 2025-08-03 132710" src="https://github.com/user-attachments/assets/a0e092a9-1b52-4f2f-ac4c-5ceb067a5d92" />
+
+--------------------------------------------------------------------------
+
+<img width="648" height="111" alt="Screenshot 2025-08-03 131949" src="https://github.com/user-attachments/assets/d8a1f73c-a3bc-4bef-ac23-cb9185ed88c1" />
+
+--------------------------------------------------------------------------
+
+<img width="460" height="123" alt="Screenshot 2025-08-03 131856" src="https://github.com/user-attachments/assets/c4dd101e-53ee-4e86-8501-6cda6eed2a1c" />
+
+--------------------------------------------------------------------------
+
+<img width="573" height="127" alt="Screenshot 2025-08-03 131825" src="https://github.com/user-attachments/assets/6229a1ba-9e17-4e30-82d3-e54ca8a2827e" />
+
+--------------------------------------------------------------------------
+
+<img width="411" height="105" alt="Screenshot 2025-08-03 121652" src="https://github.com/user-attachments/assets/9ec0181e-c7b8-44a8-97d5-514607f0ca40" />
+
+--------------------------------------------------------------------------
+
+<img width="400" height="98" alt="Screenshot 2025-08-03 121541" src="https://github.com/user-attachments/assets/ba835a5e-0034-487b-b145-5083f7a0c24e" />
+
+--------------------------------------------------------------------------
+
+
+
+
 
 
